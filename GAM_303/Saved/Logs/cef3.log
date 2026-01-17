@@ -1,0 +1,17 @@
+[28132:28136:0116/191120.560:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28132:28136:0116/191120.650:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28132:28136:0116/191128.430:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[27816:28592:0116/191130.447:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D2849F8D69F23676F4C37DB8CDC0525E will be ignored
+[19784:28052:0116/191132.446:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[19784:28052:0116/191133.103:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[28132:19704:0116/191133.844:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[28132:28136:0116/191134.430:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[28132:28136:0116/191134.430:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[28132:28136:0116/191134.430:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[28132:28136:0116/191134.430:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[28132:19704:0116/191134.434:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,9]
+[19784:28052:0116/191145.163:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[19784:28052:0116/191157.825:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[27708:23768:0116/191344.919:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[27708:23768:0116/191344.919:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[28132:28136:0116/200110.335:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
