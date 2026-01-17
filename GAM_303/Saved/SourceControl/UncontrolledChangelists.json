@@ -15,7 +15,10 @@
 				"D:/Unreal Projects/GAM-303/GAM_303/Content/Inputs/Input_Interact.uasset",
 				"D:/Unreal Projects/GAM-303/GAM_303/Content/Inputs/Input_Jump.uasset",
 				"D:/Unreal Projects/GAM-303/GAM_303/Content/Inputs/Input_Look.uasset",
-				"D:/Unreal Projects/GAM-303/GAM_303/Content/Inputs/Input_Movement.uasset"
+				"D:/Unreal Projects/GAM-303/GAM_303/Content/Inputs/Input_Movement.uasset",
+				"D:/Unreal Projects/GAM-303/GAM_303/Content/Interactables/BP_CollectablePickup.uasset",
+				"D:/Unreal Projects/GAM-303/GAM_303/Content/Interactables/BP_PhysicsPickup.uasset",
+				"E:/Epic Games/UE_5.7/Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
 			]
 		}
 	]
