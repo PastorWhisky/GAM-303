@@ -1,0 +1,43 @@
+# =========================
+# Unreal Engine Git Ignore
+# =========================
+
+# Built data / temporary files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Unreal generated project files
+.vscode/
+.vs/
+*.sln
+*.xcodeproj
+*.xcworkspace
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs and crashes
+*.log
+
+# Packaging output
+*.pak
+*.zip
+
+# Rider / JetBrains
+.idea/
+
+# Optional: Ignore autosave backups
+**/*_BuiltData.uasset
+
+# =========================
+# Keep these tracked!
+# =========================
+# DO NOT ignore:
+# Config/
+# Content/
+# Source/ (if using C++)
+# *.uproject
