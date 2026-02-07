@@ -15,8 +15,20 @@ The game is set in an abandoned energy research facility where the player solves
 - **Power Cells (Physics Pickups):**  
   Carried one at a time and placed into sockets to power doors, platforms, or machinery.
 
+- **Buttons & Interactive Elements:**  
+  Pressure plates and buttons trigger mechanisms like doors and platform activation.
+
+- **Door Systems:**  
+  Doors that respond to power input and button activation to control puzzle progression.
+
+- **Turret Prototype:**  
+  Defensive mechanism prototype for environmental hazards.
+
 - **Puzzle Progression:**  
   The prototype focuses on simple interactive puzzle rooms that teach mechanics through gameplay.
+
+- **Alpha Level:**  
+  Playable alpha-level showcase demonstrating all alpha features together.
 
 ## Repository Purpose
 
