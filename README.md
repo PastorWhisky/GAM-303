@@ -13,7 +13,7 @@ The game is set in an abandoned energy research facility where the player solves
   Picked up through overlap + input, stored as a variable resource.
 
 - **Power Cells (Physics Pickups):**  
-  Carried one at a time and placed into sockets to power doors, platforms, or machinery.
+  Carried one at a time and placed into buttons to power doors, platforms, or machinery.
 
 - **Buttons & Interactive Elements:**  
   Pressure plates and buttons trigger mechanisms like doors and platform activation.
@@ -22,7 +22,7 @@ The game is set in an abandoned energy research facility where the player solves
   Doors that respond to power input and button activation to control puzzle progression.
 
 - **Turret Prototype:**  
-  Defensive mechanism prototype for environmental hazards.
+  Defensive mechanism prototype for environmental hazards. Possible feature to have players disable.
 
 - **Puzzle Progression:**  
   The prototype focuses on simple interactive puzzle rooms that teach mechanics through gameplay.
